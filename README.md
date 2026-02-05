@@ -29,8 +29,8 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.E. **Computer Science and Engineering** – Amrita College of Engineering and Technology (CGPA: **7.7**)
-- 📊 Passionate about transforming **raw data into clear, actionable insights** for business decisions
+- 🎓 B.E. **Computer Science and Engineering** – Amrita College of Engineering and Technology 
+- 📊 Passionate Data analyst
 - 🐍 Strong in **Python, SQL, Excel, Power BI, Tableau**, and **data visualization**
 - 🔍 Interested in **NLP, sentiment analysis, ETL pipelines, and real-time analytics**
 - 🌱 Currently exploring **cloud, scalable data engineering, and Python full stack development**
@@ -81,62 +81,21 @@
 
 ---
 
-## 📌 Featured Projects
-
-### 🔹 Urban Development and Sentiment Analysis
-📍 **Repo:** [github.com/Abanee/Urban-Development-and-Sentiment-Analysis](https://github.com/Abanee/Urban-Development-and-Sentiment-Analysis)  
-- Built an **urban analytics platform** integrating **5000+ infrastructure records** with **social media sentiment** across 15 Indian cities  
-- Collected data from **social media + government sources** and applied **NLP + geospatial analysis**  
-- Used **Python, SQL, Pandas, Power BI** to provide **data-driven insights** for urban planning and development  
-
----
-
-### 🔹 Clinical Trial Patient Analytics
-📍 **Repo:** [github.com/Abaneee/internship](https://github.com/Abaneee/internship)  
-- Designed a **normalized MySQL database** for **500+ clinical trial patients** using **fact & dimension modeling**  
-- Built **Power BI dashboards** to monitor adherence, compliance, and clinical outcomes  
-- Implemented ETL pipelines achieving **99.8% data accuracy**, enabling **reliable analytics and decision support**
-
----
-
-### 🔹 Automated Social Media Engagement Analysis (Tkinter App)
-- Developed a **desktop analytics application** to analyze social media engagement end-to-end  
-- Implemented **automated preprocessing, EDA, and interactive visualization dashboard**  
-- Used **LGBMRegressor** for engagement prediction and **CatBoostClassifier** for performance classification  
-- Tech: **Python, Tkinter, Pandas, NumPy, Scikit-learn, LightGBM, CatBoost, NLP, Matplotlib**
-
-> 🔗 Add the GitHub repo link here once it is public:
-> `https://github.com/Abanee/<your-repo-name>`
-
----
-
-## 🧪 Internships & Experience
-
-### 💼 Data Analyst Intern – Besant Technologies (Remote) | Jul 2025 – Aug 2025
-- Solved **real-world business reporting challenges** using **Power BI, SQL, Power Query**  
-- Built **automated analytics solutions** improving **decision visibility & reporting efficiency**  
-- Worked on **data modeling, KPI design, and dashboard development**
-
-### 💼 Data Analyst Intern – Infotact Solutions (Remote) | Sept 2025 – Dec 2025
-- Built **modern data pipelines** with **APIs, web scraping, ETL, Kafka**  
-- Created **analytics-ready datasets** for real-world use cases  
-- Applied **NLP & sentiment analysis** on unstructured data and visualized with **Power BI**
-
----
-
 ## 📈 GitHub Analytics & Fun Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abanee&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abanee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abanee&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abanee&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abanee&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abanee&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Abanee&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 </p>
+
 
 ---
 
