@@ -103,6 +103,20 @@
 
 ---
 
+## 🎮 Games & Animations
+
+<div align="center">
+
+### 🐍 Snake Game
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake" width="350" />
+
+### 🐰 Bunny Runner
+<img src="https://user-images.githubusercontent.com/74038190/225923913-7a584620-6d0b-4f0c-8c1f-8e9e2b2a5e5f.gif" alt="bunny" width="200" />
+
+</div>
+
+---
+
 ## 🎯 What I'm Currently Focusing On
 
 - 🌐 Building **end-to-end data products** – from data collection to dashboards  
