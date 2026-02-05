@@ -103,16 +103,21 @@
 
 ---
 
-## 🎮 Games & Animations
 
 <div align="center">
-
-### 🐍 Snake Game
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake" width="350" />
-
-### 🐰 Bunny Runner
-<img src="https://user-images.githubusercontent.com/74038190/225923913-7a584620-6d0b-4f0c-8c1f-8e9e2b2a5e5f.gif" alt="bunny" width="200" />
-
+  
+  <!-- Animated Snake Game based on your GitHub activity -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Abanee&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Abanee&theme=github-compact&hide_border=true&bg_color=ffffff&color=000000&line=000000&point=000000" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abanee&theme=github-compact&hide_border=true" alt="GitHub Activity Graph" />
+  </picture>
+  
+  <br>
+  
+  <!-- Snake SVG -->
+  <img src="https://raw.githubusercontent.com/Platane/snk/master/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  
 </div>
 
 ---
