@@ -3,8 +3,9 @@
 <h3 align="center">💻 Data Analyst | 🐍 Python Full Stack Developer | ☁️ Cloud Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Data+Analyst;Python+Full+Stack+Developer;Power+BI+%7C+SQL+%7C+Tableau;NLP+%26+Sentiment+Analysis;Always+learning+new+tech+🚀" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analyst+%F0%9F%93%8A;Python+Full+Stack+Developer+%F0%9F%90%8D;Power+BI+%7C+SQL+%7C+Tableau;NLP+%2B+Sentiment+Analysis;Machine+Learning+Engineer;Cloud+Developer+%E2%98%81%EF%B8%8F;Always+Learning+%F0%9F%9A%80" alt="Typing SVG"></a>
 </p>
+
 
 <p align="center">
   <a href="https://abanee.vercel.app" target="_blank">
@@ -84,16 +85,19 @@
 ## 📈 GitHub Analytics & Fun Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abanee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abanee&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abanee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abanee&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Abanee&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abanee&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abanee&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abanee&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 
