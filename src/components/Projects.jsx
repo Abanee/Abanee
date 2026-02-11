@@ -1,7 +1,9 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { Github, ExternalLink, Calendar, BarChart3 } from 'lucide-react';
-// Make sure this path is correct
+import { Github, ExternalLink, Calendar, BarChart3, Globe } from 'lucide-react';
+
+// --- ASSETS ---
+// Make sure these paths are correct for your project folder structure
 import socialImage from '../assets/So.jpg';
 import socialImages from '../assets/Ur.jpg';
 import socialImagess from '../assets/Cl.jpg';
@@ -9,6 +11,24 @@ import socialImagesss from '../assets/Az.jpg';
 
 const Projects = () => {
   const projects = [
+    {
+      title: 'SocialPulse',
+      description:
+        'A comprehensive web-based application for real-time social trend monitoring. Features a responsive interface to track metrics and visualize data streams dynamically.',
+      technologies: [
+        'React',
+        'Vercel',
+        'Tailwind CSS',
+        'JavaScript',
+        'Rest API',
+      ],
+      date: 'Feb 2026',
+      github: 'https://github.com/Abaneee/social_pulse.git',
+      liveUrl: 'https://socialpuls.vercel.app', 
+      isIframe: true,
+      color: 'from-amber-500 to-orange-600', 
+      image: null, 
+    },
     {
       title: 'Automated Social Media Engagement Analysis',
       description:
@@ -26,7 +46,7 @@ const Projects = () => {
       ],
       date: 'Oct 2025',
       github: 'https://github.com/Abanee/Automatve-social-media-enagagement-analysis-in-tkinder.git',
-      image: socialImage, 
+      image: socialImage,
       color: 'from-amber to-sunset-gold',
     },
     {
@@ -79,8 +99,10 @@ const Projects = () => {
       ],
       date: 'Oct 2025',
       github: 'https://github.com/Abanee/Data-Analyis.git',
-      image: socialImagesss,
+      liveUrl: 'https://app.powerbi.com/view?r=eyJrIjoiNjUwNGFkY2YtMzBhMi00ZDQ2LThjNmMtMmQyMzY3ODEwOTI3IiwidCI6IjY0NDc4ZWMwLWQwMDUtNGU5NS1hMGRiLTg2Y2Q3NjBiYmFhYSJ9',
+      isIframe: true, 
       color: 'from-sunset-gold to-burnt-orange',
+      image: null, 
     },
   ];
 
@@ -139,56 +161,69 @@ const Projects = () => {
               className="glass-effect rounded-3xl overflow-hidden hover:bg-white/10 transition-all duration-500 group"
             >
               <div className="grid lg:grid-cols-2 gap-8">
-                
                 {/* --- VISUAL SECTION --- */}
                 <div className="p-6 sm:p-8 flex items-center justify-center">
                   <motion.div
                     whileHover={{ scale: 1.05 }}
-                    className="relative w-full aspect-video rounded-2xl overflow-hidden shadow-2xl"
+                    className="relative w-full aspect-video rounded-2xl overflow-hidden shadow-2xl bg-black/40"
                     style={{
                       border: '8px solid rgba(255, 191, 0, 0.2)',
                       boxShadow: '0 20px 60px rgba(0, 0, 0, 0.5)',
                     }}
                   >
-                    {/* 1. BACKGROUND IMAGE (Sharper now) */}
-                    {/* Logic: Only show if it's a real file path containing '/' */}
-                    {project.image && project.image.toString().includes('/') && (
-                        <>
-                            <img 
-                                src={project.image} 
-                                alt="Dashboard Background" 
-                                /* UPDATED CLASSES: 
-                                   - Changed blur-sm to blur-[1px] (much clearer)
-                                   - Changed opacity-50 to opacity-70 (brighter) 
-                                */
-                                className="absolute inset-0 w-full h-full object-cover blur-[1px] opacity-70 transition-transform duration-700 group-hover:scale-110"
+                    {/* CONDITIONAL RENDERING: IFRAME OR IMAGE */}
+                    {project.isIframe && project.liveUrl ? (
+                      <div className="absolute inset-0 w-full h-full overflow-hidden">
+                        <iframe
+                          src={project.liveUrl}
+                          title={project.title}
+                          className="w-[200%] h-[200%] border-0 origin-top-left"
+                          style={{
+                            transform: 'scale(0.5)',
+                          }}
+                          allowFullScreen={true}
+                          loading="lazy"
+                        />
+                        {/* Transparent overlay for click protection (optional) */}
+                        <div className="absolute inset-0 bg-transparent" />
+                      </div>
+                    ) : (
+                      <>
+                        {/* IMAGE LOGIC */}
+                        {project.image && project.image.toString().includes('/') && (
+                          <>
+                            <img
+                              src={project.image}
+                              alt="Dashboard Background"
+                              className="absolute inset-0 w-full h-full object-cover blur-[1px] opacity-70 transition-transform duration-700 group-hover:scale-110"
                             />
-                            {/* Overlay to keep text readable (increased slightly to 50% to balance the brighter image) */}
                             <div className="absolute inset-0 bg-black/50"></div>
-                        </>
-                    )}
+                          </>
+                        )}
 
-                    {/* 2. TEXT OVERLAY */}
-                    <div className="relative z-10 w-full h-full flex flex-col items-center justify-center p-8 bg-gradient-to-br from-espresso/60 to-dark-charcoal/60 sm:bg-transparent">
-                        <div className="text-center space-y-4">
-                          <div
-                            className={`w-20 h-20 mx-auto bg-gradient-to-br ${project.color} rounded-2xl flex items-center justify-center shadow-lg`}
-                          >
-                            <BarChart3 className="w-10 h-10 text-dark-charcoal" />
-                          </div>
-                          <h4 className="text-2xl font-bold text-gradient">
-                            Power BI Dashboard
-                          </h4>
-                          <p className="text-warm-cream/90 font-medium drop-shadow-md">
-                            Interactive Analytics & Visualizations
-                          </p>
-                          <div className="flex gap-2 justify-center">
-                            <div className="w-3 h-3 bg-amber rounded-full animate-pulse"></div>
-                            <div className="w-3 h-3 bg-sunset-gold rounded-full animate-pulse delay-75"></div>
-                            <div className="w-3 h-3 bg-burnt-orange rounded-full animate-pulse delay-150"></div>
+                        {/* TEXT OVERLAY (Only shows on Image projects) */}
+                        <div className="relative z-10 w-full h-full flex flex-col items-center justify-center p-8 bg-gradient-to-br from-espresso/60 to-dark-charcoal/60 sm:bg-transparent">
+                          <div className="text-center space-y-4">
+                            <div
+                              className={`w-20 h-20 mx-auto bg-gradient-to-br ${project.color} rounded-2xl flex items-center justify-center shadow-lg`}
+                            >
+                              <BarChart3 className="w-10 h-10 text-dark-charcoal" />
+                            </div>
+                            <h4 className="text-2xl font-bold text-gradient">
+                              Power BI Dashboard
+                            </h4>
+                            <p className="text-warm-cream/90 font-medium drop-shadow-md">
+                              Interactive Analytics & Visualizations
+                            </p>
+                            <div className="flex gap-2 justify-center">
+                              <div className="w-3 h-3 bg-amber rounded-full animate-pulse"></div>
+                              <div className="w-3 h-3 bg-sunset-gold rounded-full animate-pulse delay-75"></div>
+                              <div className="w-3 h-3 bg-burnt-orange rounded-full animate-pulse delay-150"></div>
+                            </div>
                           </div>
                         </div>
-                    </div>
+                      </>
+                    )}
                   </motion.div>
                 </div>
 
@@ -237,17 +272,21 @@ const Projects = () => {
                       <Github className="w-5 h-5" />
                       View on GitHub
                     </motion.a>
-                    <motion.a
-                      href={project.github}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      whileHover={{ scale: 1.05 }}
-                      whileTap={{ scale: 0.95 }}
-                      className="flex items-center gap-2 px-6 py-3 glass-effect rounded-full text-warm-cream font-semibold hover:bg-white/20 transition-all duration-300"
-                    >
-                      <ExternalLink className="w-5 h-5" />
-                      Live Demo
-                    </motion.a>
+                    
+                    {/* Render Live Link button if url exists */}
+                    {(project.liveUrl || project.github) && (
+                         <motion.a
+                         href={project.liveUrl || project.github} 
+                         target="_blank"
+                         rel="noopener noreferrer"
+                         whileHover={{ scale: 1.05 }}
+                         whileTap={{ scale: 0.95 }}
+                         className="flex items-center gap-2 px-6 py-3 glass-effect rounded-full text-warm-cream font-semibold hover:bg-white/20 transition-all duration-300"
+                       >
+                         {project.isIframe ? <Globe className="w-5 h-5"/> : <ExternalLink className="w-5 h-5" />}
+                         {project.isIframe ? "Open App" : "Live Demo"}
+                       </motion.a>
+                    )}
                   </div>
                 </div>
               </div>
