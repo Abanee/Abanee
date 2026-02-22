@@ -1,24 +1,24 @@
-<!-- PROFILE HEADER -->
 <h1 align="center">Hi 👋, I'm Abaneesh M</h1>
 <h3 align="center">💻 Data Analyst | 🐍 Python Full Stack Developer | ☁️ Cloud Enthusiast</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analyst+%F0%9F%93%8A;Python+Full+Stack+Developer+%F0%9F%90%8D;Power+BI+%7C+SQL+%7C+Tableau;NLP+%2B+Sentiment+Analysis;Machine+Learning+Engineer;Cloud+Developer+%E2%98%81%EF%B8%8F;Always+Learning+%F0%9F%9A%80" alt="Typing SVG"></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analyst+%F0%9F%93%8A;Python+Full+Stack+Developer+%F0%9F%90%8D;Power+BI+%7C+SQL+%7C+Tableau;NLP+%2B+Sentiment+Analysis;Machine+Learning+Engineer;Cloud+Developer+%E2%98%81%EF%B8%8F;Always+Learning+%F0%9F%9A%80" alt="Typing SVG">
+  </a>
 </p>
-
 
 <p align="center">
   <a href="https://abanee.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-5033FF?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-5033FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/Abanee" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Abanee-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Abanee-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/abaneesh-m" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Abaneesh%20M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Abaneesh%20M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:abaneeshabanee87@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -43,41 +43,41 @@
 
 ### 🐍 Programming & Scripting
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
 ### 🗄️ Databases
 <p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
 ### 📊 Data Analysis & Visualization
 <p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
 </p>
 
 ### 📦 Python Libraries & ML
 <p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/LightGBM-006600?style=for-the-badge&logo=amazondynamodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logo=apachekafka&logoColor=black" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/LightGBM-006600?style=for-the-badge&logo=amazondynamodb&logoColor=white" alt="LightGBM" />
+  <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logo=apachekafka&logoColor=black" alt="CatBoost" />
 </p>
 
 ### 🧰 Tools & Platforms
 <p>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="MS Office" />
 </p>
 
 ---
@@ -100,13 +100,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Abanee&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
-
 ---
-
 
 <div align="center">
   
-  <!-- Animated Snake Game based on your GitHub activity -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Abanee&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Abanee&theme=github-compact&hide_border=true&bg_color=ffffff&color=000000&line=000000&point=000000" />
@@ -115,8 +112,7 @@
   
   <br>
   
-  <!-- Snake SVG -->
-  <img src="https://raw.githubusercontent.com/Platane/snk/master/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/Abanee/Abanee/output/github-contribution-grid-snake.svg" alt="Snake animation" />
   
 </div>
 
@@ -125,8 +121,7 @@
 ## 🎯 What I'm Currently Focusing On
 
 - 🌐 Building **end-to-end data products** – from data collection to dashboards  
-- ☁️ Learning **cloud & scalable data engineering concepts**  
-- 🧠 Improving **ML, NLP, and real-time analytics** skills  
+- ☁️ Learning **cloud & scalable data engineering concepts** - 🧠 Improving **ML, NLP, and real-time analytics** skills  
 - 🧩 Practicing **DSA and problem-solving** in Python  
 
 ---
