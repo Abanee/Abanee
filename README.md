@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analyst+%F0%9F%93%8A;Python+Full+Stack+Developer+%F0%9F%90%8D;Power+BI+%7C+SQL+%7C+Tableau;NLP+%2B+Sentiment+Analysis;Machine+Learning+Engineer;Cloud+Developer+%E2%98%81%EF%B8%8F;Always+Learning+%F0%9F%9A%80" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58a6ff&center=true&vCenter=true&width=600&lines=Data+Analyst+%F0%9F%93%8A;Python+Full+Stack+Developer+%F0%9F%90%8D;Power+BI+%7C+SQL+%7C+Tableau;NLP+%2B+Sentiment+Analysis;Machine+Learning+Engineer;Cloud+Developer+%E2%98%81%EF%B8%8F;Always+Learning+%F0%9F%9A%80" alt="Typing SVG">
   </a>
 </p>
 
@@ -22,115 +22,75 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abanee&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
 
 - 🎓 B.E. **Computer Science and Engineering** – Amrita College of Engineering and Technology 
-- 📊 Passionate Data analyst
-- 🐍 Strong in **Python, SQL, Excel, Power BI, Tableau**, and **data visualization**
-- 🔍 Interested in **NLP, sentiment analysis, ETL pipelines, and real-time analytics**
-- 🌱 Currently exploring **cloud, scalable data engineering, and Python full stack development**
-- 🤝 Open to **internships / entry-level roles** in *Data Analytics* and *Python Full Stack*
+- 📊 Passionate **Data Analyst** with a knack for turning raw data into actionable insights.
+- 🐍 Strong foundation in **Python, SQL, Excel, Power BI, Tableau**, and data visualization.
+- 🔍 Highly interested in **NLP, sentiment analysis, ETL pipelines, and real-time analytics**.
+- 🌱 Currently exploring **cloud infrastructure, scalable data engineering, and Python full stack development**.
+- 🤝 Open to **internships or entry-level roles** in *Data Analytics* and *Python Full Stack*.
 
 ---
 
-## 🧠 Tech Stack & Tools
-
-### 🐍 Programming & Scripting
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</p>
-
-### 📊 Data Analysis & Visualization
-<p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
-  <img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
-</p>
-
-### 📦 Python Libraries & ML
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/LightGBM-006600?style=for-the-badge&logo=amazondynamodb&logoColor=white" alt="LightGBM" />
-  <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logo=apachekafka&logoColor=black" alt="CatBoost" />
-</p>
-
-### 🧰 Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="MS Office" />
-</p>
-
----
-
-## 📈 GitHub Analytics & Fun Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abanee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Abanee&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abanee&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abanee&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
-
----
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
-  
+  <p><strong>Languages & Databases</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,mysql,postgres&theme=dark" alt="Languages and Databases" />
+  </a>
+  <br><br>
+  <p><strong>Tools, Cloud & Platforms</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,vscode,kubernetes&theme=dark" alt="Tools and Platforms" />
+  </a>
+</div>
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abanee&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abanee&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Abanee&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&currStreakNum=c9d1d9" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Abanee&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Abanee&theme=github-compact&hide_border=true&bg_color=ffffff&color=000000&line=000000&point=000000" />
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abanee&theme=github-compact&hide_border=true" alt="GitHub Activity Graph" />
   </picture>
-  
-  <br>
-  
-  <img src="https://raw.githubusercontent.com/Abanee/Abanee/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-  
 </div>
 
 ---
 
-## 🎯 What I'm Currently Focusing On
+## 🎯 Current Focus
 
-- 🌐 Building **end-to-end data products** – from data collection to dashboards  
-- ☁️ Learning **cloud & scalable data engineering concepts** - 🧠 Improving **ML, NLP, and real-time analytics** skills  
-- 🧩 Practicing **DSA and problem-solving** in Python  
+- 🌐 Building **end-to-end data products** – from data collection to dashboards.
+- ☁️ Expanding knowledge in **cloud architecture & scalable data engineering**.
+- 🧠 Sharpening skills in **Machine Learning, NLP, and real-time analytics**.
+- 🧩 Practicing **Data Structures & Algorithms (DSA)** and competitive programming in Python.
 
 ---
 
-## 🤝 Let’s Connect & Collaborate
+## 🤝 Let’s Connect
 
 - 📧 Email: **[abaneeshabanee87@gmail.com](mailto:abaneeshabanee87@gmail.com)**
 - 💼 LinkedIn: **[linkedin.com/in/abaneesh-m](https://www.linkedin.com/in/abaneesh-m)**
 - 🌐 Portfolio: **[abanee.vercel.app](https://abanee.vercel.app)**
-- 🐙 GitHub: **[github.com/Abanee](https://github.com/Abanee)**
 
-💬 *Feel free to reach out for collaborations on data analytics, ML, or Python full stack projects!*
+<div align="center">
+  <i>Feel free to reach out for collaborations on data analytics, ML, or Python full stack projects!</i>
+</div>
